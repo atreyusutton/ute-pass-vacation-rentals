@@ -1,0 +1,182 @@
+{
+  "id": "falls-2",
+  "vrbo_link": "",
+  "name": "Falls #2 - Quaint Mountain Cabin",
+  "address": "10850 Ute Pass Ave, Green Mountain Falls, CO 80819",
+  "type": "Cabin",
+  "square_feet": "704 sq. ft.",
+  "bedrooms": 2,
+  "beds": 2,
+  "sleeps": 5,
+  "bathrooms": 1,
+  "normal_rate": "$200/night",
+  "increased_rate": {
+    "rate": "$300/night",
+    "applies_during": [
+      "Memorial Day",
+      "July 4th",
+      "Labor Day",
+      "Thanksgiving",
+      "Christmas",
+      "New Years"
+    ]
+  },
+  "minimum_booking_nights": 2,
+  "extra_rooms": [
+    "Kitchen",
+    "Living Room",
+    "Dining Area",
+    "Deck"
+  ],
+  "short_description": "Charming 1950s cabin with knotty pine, rose quartz fireplace, and wrap-around deck at 8,700 ft.",
+  "full_description": "Situated at the end of a quiet cul-de-sac with an abundance of pine trees, boulders and nature you can instantly feel relaxation envelope your senses. This property is snuggled in the mountains and boasts a beautiful new wrap around deck with sweet peace and privacy. The charm and character of the cabin is circa 1950 with beautiful knotty pine throughout.\n\nSituated at the end of a quiet cul-de-sac with an abundance of pine trees, boulders and nature you can instantly feel relaxation envelope your senses. This property is snuggled in the mountains and boasts a beautiful new wrap around deck with sweet peace and privacy. From the deck out back you have a pine tree laced view of the granite faced mountain side, hosting the famous 'falls'. From the front area of the deck you can enjoy the morning sun as you drink your coffee and listen to the creek nearby.\n\nThe charm and character of the cabin is circa 1950 with beautiful knotty pine throughout. A huge picture window brings the outdoors in and offers amazing views as well as special moments watching the humming birds and the abundance of nature. The kitchen with its original cabinetry has all the conveniences needed to cook if you so desire and the rose quartz fireplace has gas logs for convenience to enjoy a cozy and romantic evening. The bedrooms are charming and comfy and can easily accommodate 4-5 people. There is plenty of closet space to store your belongings and feel at home. The newly remodeled bathroom offers a tiled shower/tub combination with great water pressure for a soothing hot shower after a day of hiking and fun. There is a flat parking area providing easy access to the front door of this charming cabin.\n\nIt is ideal for summer vacations where you can enjoy the cooler climate at an elevation of 8,700 ft. This fully insulated cabin has gas forced air heat and the cozy gas log fireplace in the great room to keep you warm during our beautiful fall weather, our quietest and most peaceful time of year. This adorable cabin is secluded yet near many of the activities the area has to enjoy. This cabin is a gem and sure to offer a comfortable stay in Green Mountain Falls.\n\nThe village of Green Mountain Falls is one of Colorado's premier family vacation spots. There are bountiful activities such as hiking, biking, fishing, horseback riding, mountain climbing, swimming, or just relaxing with the wild life for a great family vacation.\n\nThe hospitality of this village is second to none. The town is known for the beautiful Falls – which is a short hike to the first set of Falls, or you can do a longer hike to the second set of Falls. You will enjoy a small fishing lake with a gazebo located right in the middle of the downtown area, among the shops, great restaurants and cafes. It is close to Woodland Park, Colorado Springs, Pikes Peak and just minutes away from all of the Pikes Peak region attractions such as Garden of the Gods, Cave of the Winds, Manitou Cliff Dwellings, Pikes Peak Cog Railway, and Seven Falls. The historic mining town of Cripple Creek is only 35 miles away.\n\nPer Google Maps; Manitou Springs is 10.2 miles from this vacation cabin with an eta of 16 minutes without traffic.",
+  "house_rules": {
+    "damage_responsibility": "You will be responsible for any damage to the rental property caused by you or your party during your stay.",
+    "check_in": "After 4:00 PM",
+    "check_out": "Before 10:00 AM",
+    "max_guests": 10,
+    "min_age_to_rent": 25,
+    "children_allowed": true,
+    "pets_allowed": false,
+    "events_allowed": false,
+    "smoking_allowed": false,
+    "parking": {
+      "driveway_spaces": 2,
+      "garage_spaces": 0,
+      "street_parking": "Only 2 cars can be parked in front of the home all others must be parked at the bottom of the hill, instructions for extra parking will be given upon request"
+    }
+  },
+  "bedroom_details": [
+    {
+      "name": "Bedroom 1",
+      "bed": "Queen bed",
+      "features": ["Charming and comfy", "Plenty of closet space"]
+    },
+    {
+      "name": "Bedroom 2",
+      "bed": "Queen bed",
+      "features": ["Charming and comfy", "Plenty of closet space"]
+    }
+  ],
+  "bathroom_details": [
+    {
+      "name": "Bathroom 1",
+      "features": ["Toilet", "Tub/Shower", "Newly remodeled", "Tiled shower/tub combination", "Great water pressure"]
+    }
+  ],
+  "living_spaces": {
+    "kitchen": ["Original cabinetry", "Dishes, glasses, pots and pans", "Crock Pot"],
+    "living_room": ["Rose quartz fireplace with gas logs", "Huge picture window", "Beautiful knotty pine throughout"],
+    "deck_patio": ["Beautiful new wrap around deck", "View of granite faced mountain side", "Morning sun area", "Listen to nearby creek"],
+    "dining_area": ["Dining Area"]
+  },
+  "amenities": [
+    "Internet",
+    "WiFi Available - Code and password in Guest Book at Cabin",
+    "Wireless Internet",
+    "Linens Provided",
+    "Towels Provided",
+    "Heating",
+    "Fully insulated cabin with gas forced air heat",
+    "Fireplace",
+    "Gas Fireplace in Living Room",
+    "Rose quartz fireplace with gas logs",
+    "Television",
+    "Direct TV Service",
+    "Satellite/Cable",
+    "Smoke Detector",
+    "Fire Extinguisher",
+    "Exterior Lighting",
+    "Carbon Monoxide Detector",
+    "Deadbolt Lock",
+    "Wheelchair Inaccessible",
+    "Elevation 8,700 ft",
+    "Quiet cul-de-sac location",
+    "Flat parking area",
+    "Circa 1950 with beautiful knotty pine throughout"
+  ],
+  "kitchen_amenities": [
+    "Kitchen",
+    "Original cabinetry",
+    "Microwave",
+    "Refrigerator",
+    "Dishes & Utensils",
+    "Dishes, glasses, pots and pans",
+    "Coffee Maker",
+    "8-12 cup drip coffee maker",
+    "Crock Pot",
+    "Dishwasher",
+    "Built-in",
+    "Stove",
+    "Oven",
+    "Grill"
+  ],
+  "parking": {
+    "driveway_spaces": 2,
+    "garage_spaces": 0,
+    "notes": "Flat parking area providing easy access to the front door."
+  },
+  "nearby_activities": [
+    "Fishing",
+    "Golf",
+    "Cycling",
+    "Hiking",
+    "Bird Watching",
+    "Shopping",
+    "Horseback Riding",
+    "Wildlife Viewing",
+    "Zoo",
+    "Mountain Climbing",
+    "Hunting",
+    "Rock Climbing",
+    "Cross Country Skiing",
+    "Swimming",
+    "Green Mountain Falls - hiking to the falls, fishing lake with gazebo",
+    "Garden of the Gods",
+    "Cave of the Winds",
+    "Manitou Cliff Dwellings",
+    "Pikes Peak Cog Railway",
+    "Seven Falls",
+    "Manitou Springs (10.2 miles, 16 min)",
+    "Woodland Park",
+    "Colorado Springs",
+    "Pikes Peak",
+    "Cripple Creek (35 miles)"
+  ],
+  "images": {
+    "hero": "/assets/images/vacation-rentals/falls-2/falls-2-1.jpg",
+    "gallery": [
+      "/assets/images/vacation-rentals/falls-2/falls-2-1.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-2.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-3.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-4.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-5.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-6.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-7.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-8.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-9.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-10.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-11.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-12.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-13.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-14.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-15.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-16.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-17.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-18.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-19.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-20.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-21.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-22.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-23.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-24.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-25.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-26.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-27.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-28.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-29.jpg",
+      "/assets/images/vacation-rentals/falls-2/falls-2-30.jpg"
+    ]
+  }
+}
+

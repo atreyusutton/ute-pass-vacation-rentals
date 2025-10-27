@@ -1,0 +1,203 @@
+{
+  "id": "otta-walla",
+  "vrbo_link": "",
+  "name": "Otta-Walla",
+  "address": "20 El Paso Blvd, Green Mountain Falls, CO 80819",
+  "type": "House",
+  "square_feet": "2,683 sq. ft.",
+  "bedrooms": 4,
+  "beds": 5,
+  "sleeps": 8,
+  "bathrooms": 2,
+  "normal_rate": "$275/night",
+  "increased_rate": {
+    "rate": "$300/night",
+    "applies_during": [
+      "Memorial Day",
+      "July 4th",
+      "Labor Day",
+      "Thanksgiving",
+      "Christmas",
+      "New Years"
+    ]
+  },
+  "minimum_booking_nights": 2,
+  "extra_rooms": [
+    "Kitchen",
+    "Living Room",
+    "Dining Area",
+    "Deck",
+    "Patio"
+  ],
+  "short_description": "Historic 4-bedroom home with wraparound deck overlooking a bubbling creek, rich in Green Mountain Falls history.",
+  "full_description": "Otta-Walla cabin is full of family fun and history. This three-bedroom, two bath home has a fully-equipped kitchen, sleeping loft (in addition to the bedrooms), sun room, and a wraparound deck that overlooks a bubbling creek on the property. A cathedral ceiling provides an airiness to the living room. The house sits on the site of the first, 1-room Otta-Walla, built in the late 1800's by one of the first vacationing families of Green Mountain Falls.\n\nThe cabin is a few minutes level walk from the village's center and the iconic Victorian gazebo located in the middle of the lake. Kids of all ages love to fish, picnic, and enjoy the playground. In the town center, you will find two popular restaurants and the Blue Moose bar.\n\nGMF has miles of well-maintained trails around it, including the road where Otta-Walla sits. Santa's Workshop (a vintage amusement park) is down the road from GMF in Cascade. Fun-loving Manitou Springs is just 15 minutes down Ute Pass (Highway 24) with its arcade, its shops and art galleries. Manitou's next door neighbor, Colorado Springs, is home to the Garden of the Gods, Seven Falls, Cheyenne Mountain Zoo, the Broadmoor Hotel and the United States Air Force Academy.\n\nFive minutes north of GMF on Highway 24 is Woodland Park. Save yourself a trip to the Springs: in Woodland you can buy groceries, gas up the car, obtain fishing licenses, buy liquor, visit a hospital or vet clinic. Check out the restaurants and shopping. The weekly Farmers/Crafters Market is held every Friday from 7am-1pm.\n\nFor the day-trippers, the historic mining towns of Cripple Creek and Victor are close by and the scenery going up the mountains is breathtaking. Cripple Creek also boasts casinos. There's great fishing and luscious scenery at 11-Mile Canyon Reservoir (45 minutes west) and Deckers (38 minutes north of Woodland Park). Breckenridge is about a two-hour drive from Otta-Walla. On the way, you will go through Wilkerson Pass and South Park where you may spot buffalo and antelope.\n\nHome is professionally managed by a local company.",
+  "house_rules": {
+    "damage_responsibility": "You will be responsible for any damage to the rental property caused by you or your party during your stay.",
+    "check_in": "After 4:00 PM",
+    "check_out": "Before 10:00 AM",
+    "max_guests": 10,
+    "min_age_to_rent": 25,
+    "children_allowed": true,
+    "pets_allowed": false,
+    "events_allowed": false,
+    "smoking_allowed": false,
+    "parking": {
+      "driveway_spaces": 4,
+      "garage_spaces": 0,
+      "street_parking": "Only 2 cars can be parked in front of the home all others must be parked at the bottom of the hill, instructions for extra parking will be given upon request"
+    }
+  },
+  "bedroom_details": [
+    {
+      "name": "Sleeping Loft",
+      "bed": "Sleep-sofa/futon",
+      "features": []
+    },
+    {
+      "name": "Bedroom 2",
+      "bed": "Queen bed",
+      "features": []
+    },
+    {
+      "name": "Bedroom 3",
+      "bed": "Bunk Bed",
+      "features": []
+    },
+    {
+      "name": "Master Bedroom",
+      "bed": "King bed",
+      "features": []
+    }
+  ],
+  "bathroom_details": [
+    {
+      "name": "Bathroom 1",
+      "features": ["Toilet", "Combination tub/shower"]
+    },
+    {
+      "name": "Master Bathroom",
+      "features": ["Toilet", "Shower"]
+    }
+  ],
+  "living_spaces": {
+    "kitchen": ["Full kitchen", "Kitchen island", "Dining table"],
+    "deck_patio": ["Large deck overlooking the creek", "Gas Grill"],
+    "dining_area": ["Dining Area"],
+    "lawn_garden": ["Large yard with dog run plus a cement patio with picnic table"]
+  },
+  "amenities": [
+    "Internet",
+    "Wireless Internet",
+    "Free Wi-Fi",
+    "Linens Provided",
+    "Towels Provided",
+    "Heating",
+    "Electric",
+    "Fireplace",
+    "Gas Fire Place in Living Room with remote control",
+    "Toilet Paper",
+    "Paper Towels",
+    "Basic Soaps",
+    "Shampoo",
+    "Telephone",
+    "Landline for local calls",
+    "Desk Chair",
+    "Desk",
+    "Outdoor Furniture",
+    "Television",
+    "Smart Cable TV in Living Room and Master Bedroom",
+    "Books",
+    "Toys",
+    "Games for Kids",
+    "Washing Machine",
+    "Clothes Dryer",
+    "Smoke Detector",
+    "Exterior Lighting",
+    "Carbon Monoxide Detector",
+    "Deadbolt Lock",
+    "Wheelchair Inaccessible",
+    "Mountain View",
+    "Resort",
+    "Village",
+    "Mountain Location"
+  ],
+  "kitchen_amenities": [
+    "Kitchen",
+    "Microwave",
+    "Refrigerator",
+    "Dishes & Utensils",
+    "Coffee Maker",
+    "Drip Coffee pot and a Keurig",
+    "Dishwasher",
+    "Stove",
+    "Toaster",
+    "Oven",
+    "Grill",
+    "Ice Maker",
+    "Dining Table",
+    "Kitchen Island"
+  ],
+  "parking": {
+    "driveway_spaces": 4,
+    "garage_spaces": 0,
+    "notes": "Off street parking will easily accommodate 4 cars. Only 2 cars can be parked in front of the home all others must be parked at the bottom of the hill, instructions for extra parking will be given upon request."
+  },
+  "nearby_activities": [
+    "Swimming",
+    "Fishing",
+    "Golf",
+    "Hiking",
+    "Bird Watching",
+    "Shopping",
+    "Kayaking",
+    "Mountain Biking",
+    "Basketball Court",
+    "Zoo",
+    "Mountain Climbing",
+    "Rafting",
+    "Gambling Casinos",
+    "Garden of the Gods",
+    "Seven Falls",
+    "Cheyenne Mountain Zoo",
+    "Broadmoor Hotel",
+    "United States Air Force Academy",
+    "Manitou Springs (15 min)",
+    "Santa's Workshop - Cascade",
+    "Woodland Park (5 min)",
+    "Cripple Creek Casinos",
+    "Victor",
+    "11-Mile Canyon Reservoir (45 min west)",
+    "Deckers (38 min north of Woodland Park)",
+    "Breckenridge (2 hours)"
+  ],
+  "images": {
+    "hero": "/assets/images/vacation-rentals/otta-walla/otta-walla-1.jpg",
+    "gallery": [
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-1.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-2.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-3.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-4.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-5.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-6.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-7.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-8.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-9.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-10.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-11.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-12.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-13.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-14.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-15.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-16.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-17.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-18.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-19.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-20.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-21.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-22.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-23.jpg",
+      "/assets/images/vacation-rentals/otta-walla/otta-walla-24.jpg"
+    ]
+  }
+}
+

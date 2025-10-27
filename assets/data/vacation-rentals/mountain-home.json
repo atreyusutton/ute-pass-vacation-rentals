@@ -1,0 +1,205 @@
+{
+  "id": "mountain-home",
+  "vrbo_link": "",
+  "name": "Colorado Mountain Home",
+  "address": "10915 Iona Ave, Green Mountain Falls, CO 80819",
+  "type": "House",
+  "square_feet": "",
+  "bedrooms": 3,
+  "beds": 9,
+  "sleeps": 10,
+  "bathrooms": 3,
+  "normal_rate": "$360/night",
+  "increased_rate": {
+    "rate": "$300/night",
+    "applies_during": [
+      "Memorial Day",
+      "July 4th",
+      "Labor Day",
+      "Thanksgiving",
+      "Christmas",
+      "New Years"
+    ]
+  },
+  "minimum_booking_nights": 2,
+  "extra_rooms": [
+    "Kitchen",
+    "Living Room",
+    "Dining Area",
+    "Deck"
+  ],
+  "short_description": "Spacious family home with panoramic valley views, Dance-Dance machine, and shuffleboard table.",
+  "full_description": "The village of Green Mountain Falls is one of Colorado's premier family vacation spots. Trout fishing, mountain climbing, hiking, shopping or dining, swimming, horseback riding or just relaxing with the wild life is the essence of a great family vacation. The hospitality of this village is second to none.\n\nOur cabin, located at 10915 Iona, has been in our family for many years – mostly used as a 2nd home – a summer get-a-way. It has a panoramic view; yet it is snuggled in the mountains for that true mountain feel. The view from the living room, outside deck and back yard encompasses the entire valley below. Wildlife is abundant and several hiking trails are close to the house.\n\nFor entertainment, there is a dance-dance machine…just like the ones you have seen in the mall; a shuffleboard game table, and various games, movies, puzzles and books. You will enjoy a small fishing lake with a gazebo located right in the middle of the downtown area, among the shops, great restaurants and cafes. It is close to Woodland Park, Colorado Springs, and Pikes Peak. There are a multitude of activities all around the Green Mountain Falls area. The town is known for the beautiful Falls – which is a short hike to the first set of Falls, or you can do a longer hike to the second set of Falls. There is a lovely public outdoor swimming pool and tennis courts just around the corner from the small lake located in the center of the village.\n\nThis cabin is ideally suited for family reunions, scrapbooking, birthday parties, business retreats, weddings, wedding anniversaries, honeymoons, Air Force graduations, or any other special occasion. You can enjoy the cooler climate at an elevation of 8,700 ft. surrounded by aspens, pines and interesting wildlife. You will be just minutes away from all of the Pikes Peak region attractions such as Garden of the Gods, Cave of the Winds, Manitou Cliff Dwellings, Pikes Peak Cog Railway, Seven Falls, and the famous Flying W Ranch. The Royal Gorge and river rafting are only an hour drive and the historic mining town of Cripple Creek is only 35 miles away. There are bountiful activities such as hiking, biking, fishing, horseback riding, antique shopping, museums, and fine arts. We know you will enjoy your visit to this beautiful mountain village.",
+  "house_rules": {
+    "damage_responsibility": "You will be responsible for any damage to the rental property caused by you or your party during your stay.",
+    "check_in": "After 4:00 PM",
+    "check_out": "Before 10:00 AM",
+    "max_guests": 10,
+    "min_age_to_rent": 25,
+    "children_allowed": true,
+    "pets_allowed": false,
+    "events_allowed": false,
+    "smoking_allowed": false,
+    "parking": {
+      "driveway_spaces": 1,
+      "garage_spaces": 1,
+      "street_parking": "Only 2 cars can be parked in front of the home all others must be parked at the bottom of the hill, instructions for extra parking will be given upon request. No on street parking allowed."
+    }
+  },
+  "bedroom_details": [
+    {
+      "name": "Bedroom 1",
+      "bed": "Queen bed",
+      "features": []
+    },
+    {
+      "name": "Bedroom 2",
+      "bed": "King bed",
+      "features": []
+    },
+    {
+      "name": "Bedroom 3",
+      "bed": "King bed",
+      "features": []
+    },
+    {
+      "name": "Bunk Area",
+      "bed": "5 Twin beds + Double bed",
+      "features": []
+    }
+  ],
+  "bathroom_details": [
+    {
+      "name": "Bathroom 1",
+      "features": ["Toilet", "Shower"]
+    },
+    {
+      "name": "Bathroom 2",
+      "features": ["Toilet", "Tub/Shower"]
+    },
+    {
+      "name": "Bathroom 3",
+      "features": ["Toilet", "Shower"]
+    }
+  ],
+  "living_spaces": {
+    "kitchen": ["Full kitchen"],
+    "living_room": ["Panoramic view", "View encompasses entire valley", "Smart TV 50\" with Netflix Capable"],
+    "family_room": ["Large TV"],
+    "deck_patio": ["Outside deck with panoramic valley view"],
+    "dining_area": ["Dining Area"],
+    "lawn_garden": ["Backyard with valley view", "Abundant wildlife", "Hiking trails nearby"]
+  },
+  "amenities": [
+    "Internet",
+    "WiFi Available",
+    "Linens Provided",
+    "Towels Provided",
+    "Heating",
+    "Air Conditioning",
+    "Portable Air Conditioning units on main level and loft level",
+    "Toilet Paper",
+    "Paper Towels",
+    "Basic Soaps",
+    "Shampoo",
+    "Wood Stove",
+    "Outdoor Furniture",
+    "Television",
+    "Smart TV in Living Room 50\" with Netflix Capable",
+    "Large TV in Family Room",
+    "Satellite/Cable",
+    "Washing Machine",
+    "Clothes Dryer",
+    "Smoke Detector",
+    "Exterior Lighting",
+    "Carbon Monoxide Detector",
+    "Deadbolt Lock",
+    "Wheelchair Inaccessible",
+    "Mountain View",
+    "Panoramic valley view",
+    "Elevation 8,700 ft",
+    "Dance-Dance Machine (like in the mall)",
+    "Shuffleboard Game Table",
+    "Games, movies, puzzles and books"
+  ],
+  "kitchen_amenities": [
+    "Kitchen",
+    "Microwave",
+    "Refrigerator",
+    "Dishes & Utensils",
+    "Coffee Maker",
+    "Keurig",
+    "Stove",
+    "Toaster",
+    "Oven",
+    "Grill",
+    "Pantry Items"
+  ],
+  "parking": {
+    "driveway_spaces": 1,
+    "garage_spaces": 1,
+    "notes": "One in the Garage and One in the Driveway. No on street parking allowed. Detached garage."
+  },
+  "nearby_activities": [
+    "Swimming",
+    "Fishing",
+    "Trout fishing",
+    "Golf",
+    "Cycling",
+    "Hiking",
+    "Museums",
+    "Horseback Riding",
+    "Wildlife Viewing",
+    "Mountain Biking",
+    "Antiquing",
+    "Zoo",
+    "Mountain Climbing",
+    "Rafting",
+    "Rock Climbing",
+    "Shopping",
+    "Fine Arts",
+    "Green Mountain Falls - fishing lake with gazebo, public swimming pool, tennis courts, hiking to the falls",
+    "Garden of the Gods",
+    "Cave of the Winds",
+    "Manitou Cliff Dwellings",
+    "Pikes Peak Cog Railway",
+    "Seven Falls",
+    "Flying W Ranch",
+    "Woodland Park",
+    "Colorado Springs",
+    "Pikes Peak",
+    "Royal Gorge (1 hour)",
+    "River Rafting (1 hour)",
+    "Cripple Creek (35 miles)",
+    "Air Force Academy"
+  ],
+  "images": {
+    "hero": "/assets/images/vacation-rentals/mountain-home/mountain-home-1.jpg",
+    "gallery": [
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-1.jpg",
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-2.jpg",
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-3.jpg",
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-4.jpg",
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-5.jpg",
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-6.jpg",
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-7.jpg",
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-8.jpg",
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-9.jpg",
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-10.jpg",
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-11.jpg",
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-12.jpg",
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-13.jpg",
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-14.jpg",
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-15.jpg",
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-16.jpg",
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-17.jpg",
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-18.jpg",
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-19.jpg",
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-20.jpg",
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-21.jpg",
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-22.jpg",
+      "/assets/images/vacation-rentals/mountain-home/mountain-home-23.jpg"
+    ]
+  }
+}
+

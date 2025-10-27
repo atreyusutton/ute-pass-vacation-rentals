@@ -1,0 +1,192 @@
+{
+  "id": "antlers",
+  "vrbo_link": "",
+  "name": "The Antlers on Grandview",
+  "address": "10 Grandview Ave, Green Mountain Falls, CO 80819",
+  "type": "House",
+  "square_feet": "2,144 sq. ft.",
+  "bedrooms": 5,
+  "beds": 7,
+  "sleeps": 10,
+  "bathrooms": 3,
+  "normal_rate": "$225/night",
+  "increased_rate": {
+    "rate": "$300/night",
+    "applies_during": [
+      "Memorial Day",
+      "July 4th",
+      "Labor Day",
+      "Thanksgiving",
+      "Christmas",
+      "New Years"
+    ]
+  },
+  "minimum_booking_nights": 2,
+  "extra_rooms": [
+    "Kitchen",
+    "Living Room",
+    "Deck",
+    "Patio"
+  ],
+  "short_description": "Rustic 5-bedroom log cabin with vaulted ceilings, wood-burning fireplace, and charming claw-foot tub.",
+  "full_description": "The Antlers Cabin is rustic log cabin retreat loaded with charm and updated with many modern amenities. It is located in Green Mountain Falls, a quaint vacation town at the foot of Pikes Peak, close to Colorado Springs – but snuggled in the mountains for that true mountain town feel.\n\nThis historic log cabin includes three levels of living space with 5 bedrooms, 2 full baths and one half bath.\n\nThe ground floor has 2 bedrooms, one with a full size bed and one with a queen size bed, a full bathroom with tub/shower combo and family-play room. On the main floor, the wood-burning fireplace takes center stage in the great room, which is complete with vaulted ceiling, hardwood floors and real log walls. The dining room table seats 8 with 2 benches and 2 chairs. The adjacent sun room is a cozy place to read or play games. The master bedroom with queen size bed adjoins the nostalgic bathroom with charming claw-foot tub. The kitchen boasts a stove, full-size refrigerator, dishwasher and a breakfast area with table and chairs.\n\nThe top floor includes 2 additional bedrooms and a half bath. These two bedrooms each have a built-in full size bed along with a single bed.\n\nOff the kitchen is a nice patio area for grilling and dining. An additional patio on the opposite side of the house and an enclosed deck off of the sun room provide ample opportunities to enjoy the beautiful mountain views.\n\nGreen Mountain Falls is a quiet little town with shops, restaurants, a fishing pond, hiking trails, public swimming pool, tennis courts, creeks and its namesake waterfalls. Nestled in a small valley, the central business district rings a small lake with a picturesque gazebo in the middle.\n\nThis cabin makes a great home base for trips to many major tourist attractions including: The Garden of the Gods, Pikes Peak, The U.S. Air Force Academy, Cave of the Winds, Seven Falls, the U.S. Olympic Training Center and many more. Shoppers will love a day trip to Manitou Springs or Old Colorado City. Those who love the outdoors will find great hiking, fishing, golf, 4-wheeling, rafting and biking nearby.",
+  "house_rules": {
+    "damage_responsibility": "You will be responsible for any damage to the rental property caused by you or your party during your stay.",
+    "check_in": "After 4:00 PM",
+    "check_out": "Before 10:00 AM",
+    "max_guests": 10,
+    "min_age_to_rent": 25,
+    "children_allowed": true,
+    "pets_allowed": false,
+    "events_allowed": false,
+    "smoking_allowed": false,
+    "parking": {
+      "driveway_spaces": 2,
+      "garage_spaces": 0,
+      "street_parking": "Only 2 cars can be parked in front of the home all others must be parked at the bottom of the hill, instructions for extra parking will be given upon request"
+    }
+  },
+  "bedroom_details": [
+    {
+      "name": "Bedroom 2 - Ground Floor",
+      "bed": "Double bed",
+      "features": []
+    },
+    {
+      "name": "Bedroom 3 - Ground Floor",
+      "bed": "Double bed",
+      "features": []
+    },
+    {
+      "name": "Master Bedroom - Main Level",
+      "bed": "Queen bed",
+      "features": ["Adjoins bathroom with claw-foot tub"]
+    },
+    {
+      "name": "Bedroom 4 - Top Floor",
+      "bed": "Twin/Single bed + Double bed",
+      "features": ["Built-in beds"]
+    },
+    {
+      "name": "Bedroom 5 - Top Floor",
+      "bed": "Twin/Single bed + Double bed",
+      "features": ["Built-in beds"]
+    }
+  ],
+  "bathroom_details": [
+    {
+      "name": "Bathroom 1 - Ground Floor",
+      "features": ["Toilet", "Combination tub/shower"]
+    },
+    {
+      "name": "Bathroom 2 - Main Level",
+      "features": ["Tub", "Toilet", "Claw-foot tub"]
+    },
+    {
+      "name": "Bathroom 3 - Top Floor",
+      "features": ["Toilet", "Half Bath"]
+    }
+  ],
+  "living_spaces": {
+    "kitchen": ["Full kitchen", "Counter", "Breakfast area with table and chairs"],
+    "living_room": ["Wood-burning fireplace", "Vaulted ceiling", "Hardwood floors", "Real log walls", "Flat screen TV"],
+    "deck_patio": ["Deck/Patio", "Enclosed deck off sun room", "Patio for grilling and dining"],
+    "dining_area": ["Dining table seats 8", "2 benches and 2 chairs", "Additional seating for 2 in kitchen"],
+    "sun_room": ["Cozy reading area", "Game space"],
+    "family_room": ["Ground floor family-play room", "TV with Built in VCR"]
+  },
+  "amenities": [
+    "Internet",
+    "Wireless Internet",
+    "WiFi access details in Welcome Book at Property",
+    "Linens Provided",
+    "Towels Provided",
+    "Heating",
+    "Fireplace",
+    "Wood-Burning",
+    "Toilet Paper",
+    "Paper Towels",
+    "Shampoo",
+    "Television",
+    "Flat screen TV in the Main Level Living Room",
+    "TV with Built in VCR on the Lower Level Family Room",
+    "Smoke Detector",
+    "Exterior Lighting",
+    "Carbon Monoxide Detector",
+    "Deadbolt Lock",
+    "Wheelchair Inaccessible"
+  ],
+  "kitchen_amenities": [
+    "Kitchen",
+    "Microwave",
+    "Counter",
+    "Refrigerator",
+    "Full Size",
+    "Dishes & Utensils",
+    "Coffee Maker",
+    "Dishwasher",
+    "Built-in",
+    "Stove",
+    "Electric",
+    "Toaster",
+    "Grill",
+    "Pantry Items"
+  ],
+  "parking": {
+    "driveway_spaces": 2,
+    "garage_spaces": 0,
+    "notes": "2 Street Parking in front of the house. Additional Public parking short walk away."
+  },
+  "nearby_activities": [
+    "Hiking",
+    "Fishing",
+    "Golf",
+    "4-wheeling",
+    "Rafting",
+    "Biking",
+    "Swimming",
+    "Tennis Courts",
+    "Garden of the Gods",
+    "Pikes Peak",
+    "U.S. Air Force Academy",
+    "Cave of the Winds",
+    "Seven Falls",
+    "U.S. Olympic Training Center",
+    "Manitou Springs",
+    "Old Colorado City",
+    "Green Mountain Falls - shops, restaurants, fishing pond, hiking trails, public swimming pool, waterfalls"
+  ],
+  "images": {
+    "hero": "/assets/images/vacation-rentals/antlers/antlers-1.jpg",
+    "gallery": [
+      "/assets/images/vacation-rentals/antlers/antlers-1.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-2.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-3.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-4.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-5.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-6.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-7.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-8.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-9.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-10.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-11.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-12.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-13.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-14.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-15.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-16.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-17.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-18.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-19.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-20.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-21.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-22.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-23.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-24.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-25.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-26.jpg",
+      "/assets/images/vacation-rentals/antlers/antlers-27.jpg"
+    ]
+  }
+}
+

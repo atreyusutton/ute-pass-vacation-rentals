@@ -1,0 +1,179 @@
+{
+  "id": "mountain-cabin",
+  "vrbo_link": "",
+  "name": "Colorado Mountain Cabin",
+  "address": "10875 Belvidere Ave, Green Mountain Falls, CO 80819",
+  "type": "Cabin",
+  "square_feet": "",
+  "bedrooms": 1,
+  "beds": 2,
+  "sleeps": 4,
+  "bathrooms": 1,
+  "normal_rate": "$200/night",
+  "increased_rate": {
+    "rate": "$300/night",
+    "applies_during": [
+      "Memorial Day",
+      "July 4th",
+      "Labor Day",
+      "Thanksgiving",
+      "Christmas",
+      "New Years"
+    ]
+  },
+  "minimum_booking_nights": 2,
+  "extra_rooms": [
+    "Kitchen",
+    "Living Room",
+    "Dining Area",
+    "Deck"
+  ],
+  "short_description": "Historic 1920s cabin with massage table, playground, and valley-view deck, completely refurbished.",
+  "full_description": "The village of Green Mountain Falls is one of Colorado's premier family vacation spots. Trout fishing, mountain climbing, hiking, shopping or dining, swimming, horseback riding or just relaxing with the wild life is the essence of a great family vacation. The hospitality of this village is second to none.\n\nOur cabin, located at 10875 Belvidere, has been in our family for many years – mostly used as a 2nd home – a summer get-a-way. It is located on the lower road (Belvidere) and is tucked away between Belvidere and Kansas Ave. To reach the carport, you actually drive up Kansas Avenue and you will arrive just above the front door of the Cabin. This house is adjacent to our private family home at 10885 Belvidere.\n\nJust outside the front door, you will discover a wonderful playground for children. This home was one of the original cabins of Green Mountain Falls….probably built in the 1920's or earlier. It has been completely refurbished and even air conditioned. There is a small wood burning fireplace in the living room and a memory foam pull-out sofa bed. The Master Bedroom is equipped with a King size bed and also has a wonderful massage table…for in house massage service. Outside is an oversized deck that overlooks the valley below. Wildlife is abundant and several hiking trails are close to the house.\n\nFor entertainment, there is one flat screen television with DVD and Cable, as well as various games, movies, puzzles and books. You will enjoy a small fishing lake with a gazebo located right in the middle of the downtown area, among the shops, great restaurants and cafes. It is close to Woodland Park, Colorado Springs, and Pikes Peak. There are a multitude of activities all around the Green Mountain Falls area. The town is known for the beautiful Falls – which is a short hike to the first set of Falls, or you can do a longer hike to the second set of Falls. There is a lovely public outdoor swimming pool and tennis courts just around the corner from the small lake located in the center of the village.\n\nThis cabin is ideally suited for a group of 2-4 people. The bed sleep 2 and there is a sleeper sofa. The cabin is well suited for small birthday parties, business retreats, weddings, wedding anniversaries, honeymoons, Air Force graduations, or any other special occasion. You can enjoy the cooler climate at an elevation of 8,700 ft. surrounded by aspens, pines and interesting wildlife. You will be just minutes away from all of the Pikes Peak region attractions such as Garden of the Gods, Cave of the Winds, Manitou Cliff Dwellings, Pikes Peak Cog Railway, Seven Falls, and the famous Flying W Ranch. The Royal Gorge and river rafting are only an hour drive and the historic mining town of Cripple Creek is only 35 miles away. There are bountiful activities such as hiking, biking, fishing, horseback riding, antique shopping, museums, and fine arts. We know you will enjoy your visit to this beautiful mountain village.\n\nNote: No Clothes Washer or Dryer in this Cabin — There are nearby coin operated Laundry Mat if needed.",
+  "house_rules": {
+    "damage_responsibility": "You will be responsible for any damage to the rental property caused by you or your party during your stay.",
+    "check_in": "After 4:00 PM",
+    "check_out": "Before 10:00 AM",
+    "max_guests": 10,
+    "min_age_to_rent": 25,
+    "children_allowed": true,
+    "pets_allowed": false,
+    "events_allowed": false,
+    "smoking_allowed": false,
+    "parking": {
+      "driveway_spaces": 1,
+      "garage_spaces": 0,
+      "street_parking": "Only 2 cars can be parked in front of the home all others must be parked at the bottom of the hill, instructions for extra parking will be given upon request"
+    }
+  },
+  "bedroom_details": [
+    {
+      "name": "Bedroom 1 - Master",
+      "bed": "King bed",
+      "features": ["Massage table for in-house massage service", "New Smart TV"]
+    },
+    {
+      "name": "Convertible Bed - Living Room",
+      "bed": "Sleep-sofa/Futon",
+      "features": ["Memory foam pull-out sofa bed"]
+    }
+  ],
+  "bathroom_details": [
+    {
+      "name": "Bathroom 1",
+      "features": ["Toilet", "Tub/Shower"]
+    }
+  ],
+  "living_spaces": {
+    "kitchen": ["Full kitchen"],
+    "living_room": ["Small wood burning fireplace", "Memory foam pull-out sofa bed", "TV in Living Room", "Games, movies, puzzles and books"],
+    "deck_patio": ["Oversized deck that overlooks the valley below"],
+    "outdoor": ["Wonderful playground for children just outside front door"]
+  },
+  "amenities": [
+    "Internet",
+    "Limited WiFi available",
+    "Linens Provided",
+    "Towels Provided",
+    "Heating",
+    "Air Conditioning",
+    "Fireplace",
+    "Small wood burning fireplace",
+    "Television",
+    "TV in the Living Room and New Smart TV in Bedroom",
+    "Satellite/Cable",
+    "DVD Player",
+    "Games, movies, puzzles and books",
+    "Smoke Detector",
+    "Exterior Lighting",
+    "Carbon Monoxide Detector",
+    "Deadbolt Lock",
+    "Massage table in bedroom",
+    "Playground for children outside front door",
+    "Completely refurbished",
+    "Elevation 8,700 ft",
+    "One of the original cabins of Green Mountain Falls - built 1920s or earlier",
+    "No Washer or Dryer - nearby coin operated Laundry Mat available"
+  ],
+  "kitchen_amenities": [
+    "Kitchen",
+    "Microwave",
+    "Refrigerator",
+    "Dishes & Utensils",
+    "Coffee Maker",
+    "Drip",
+    "Stove",
+    "Toaster",
+    "Oven",
+    "Grill",
+    "Pantry Items"
+  ],
+  "parking": {
+    "driveway_spaces": 1,
+    "garage_spaces": 0,
+    "notes": "Parking for one vehicle is available under a carport. Drive up Kansas Avenue to reach the carport above the front door."
+  },
+  "nearby_activities": [
+    "Swimming",
+    "Fishing",
+    "Trout fishing",
+    "Golf",
+    "Cycling",
+    "Hiking",
+    "Shopping",
+    "Horseback Riding",
+    "Wildlife Viewing",
+    "Mountain Biking",
+    "Theme Parks",
+    "Skiing",
+    "Zoo",
+    "Rock Climbing",
+    "Cross Country Skiing",
+    "Antiquing",
+    "Museums",
+    "Fine Arts",
+    "Green Mountain Falls - fishing lake with gazebo, public swimming pool, tennis courts, hiking to the falls",
+    "Garden of the Gods",
+    "Cave of the Winds",
+    "Manitou Cliff Dwellings",
+    "Pikes Peak Cog Railway",
+    "Seven Falls",
+    "Flying W Ranch",
+    "Woodland Park",
+    "Colorado Springs",
+    "Pikes Peak",
+    "Royal Gorge (1 hour)",
+    "River Rafting (1 hour)",
+    "Cripple Creek (35 miles)",
+    "Air Force Academy"
+  ],
+  "images": {
+    "hero": "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-1.jpg",
+    "gallery": [
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-1.jpg",
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-2.jpg",
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-3.jpg",
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-4.jpg",
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-5.jpg",
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-6.jpg",
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-7.jpg",
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-8.jpg",
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-9.jpg",
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-10.jpg",
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-11.jpg",
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-12.jpg",
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-13.jpg",
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-14.jpg",
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-15.jpg",
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-16.jpg",
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-17.jpg",
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-18.jpg",
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-19.jpg",
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-20.jpg",
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-21.jpg",
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-22.jpg",
+      "/assets/images/vacation-rentals/mountain-cabin/mountain-cabin-23.jpg"
+    ]
+  }
+}
+

@@ -1,0 +1,176 @@
+{
+  "id": "olathe",
+  "vrbo_link": "",
+  "name": "Olathe - The Miller Cabin",
+  "address": "15 Howard St, Green Mountain Falls, CO 80819",
+  "type": "Cabin",
+  "square_feet": "1,324 sq. ft.",
+  "bedrooms": 3,
+  "beds": 6,
+  "sleeps": 8,
+  "bathrooms": 2,
+  "normal_rate": "$175/night",
+  "increased_rate": {
+    "rate": "$300/night",
+    "applies_during": [
+      "Memorial Day",
+      "July 4th",
+      "Labor Day",
+      "Thanksgiving",
+      "Christmas",
+      "New Years"
+    ]
+  },
+  "minimum_booking_nights": 2,
+  "extra_rooms": [
+    "Kitchen",
+    "Living Room",
+    "Dining Area",
+    "Deck/Patio"
+  ],
+  "short_description": "Historic 1936 cabin with backyard creek, newly renovated bathrooms, and dual back decks.",
+  "full_description": "This 1936 cabin in quaint Green Mountain Falls can sleep up to 8 guests. Enjoy the outdoors walking along the backyard creek and observing the abundant local wildlife. Escape to the peace and quiet of mountain life with many tourist attractions less than 30 minutes away.\n\nThis three bedroom and two bath cabin can sleep up to 8 guests.\n\nThe main level features a living room, one bedroom (full-size bed), newly renovated bathroom, and a back deck which spans the width of the cabin itself.\n\nThe downstairs level includes a full kitchen (stocked with cooking pans and utensils), a dining area, two bedrooms (one bedroom with queen-size bed, one bedroom with two bunk-beds), newly renovated bathroom, and yet another spectacular back deck with a gas grill.\n\nThe property includes WiFi internet, landline telephone, and a Roku-enabled television.\n\nPet Allergies: The last dog visitor was in 2009 and the carpets have been changed since then. No cats have ever been inside the cabin per the owner's history memory.\n\nEnjoy the outdoors walking along the backyard creek and observing the abundant local wildlife. Escape to the peace and quiet of mountain life with many tourist attractions less than 30 minutes away.",
+  "house_rules": {
+    "damage_responsibility": "You will be responsible for any damage to the rental property caused by you or your party during your stay.",
+    "check_in": "After 4:00 PM",
+    "check_out": "Before 10:00 AM",
+    "max_guests": 10,
+    "min_age_to_rent": 25,
+    "children_allowed": true,
+    "pets_allowed": false,
+    "events_allowed": false,
+    "smoking_allowed": false,
+    "parking": {
+      "driveway_spaces": 2,
+      "garage_spaces": 0,
+      "street_parking": "Only 2 cars can be parked in front of the home all others must be parked at the bottom of the hill, instructions for extra parking will be given upon request"
+    }
+  },
+  "bedroom_details": [
+    {
+      "name": "Bedroom 1 - Downstairs",
+      "bed": "Queen bed",
+      "features": []
+    },
+    {
+      "name": "Bedroom 2 - Downstairs",
+      "bed": "2 Bunk Beds",
+      "features": []
+    },
+    {
+      "name": "Bedroom 3 - Main Level",
+      "bed": "Double bed",
+      "features": []
+    }
+  ],
+  "bathroom_details": [
+    {
+      "name": "Bathroom 1 - Main Level",
+      "features": ["Toilet", "Tub/Shower", "Newly renovated"]
+    },
+    {
+      "name": "Bathroom 2 - Downstairs",
+      "features": ["Toilet", "Shower", "Newly renovated"]
+    }
+  ],
+  "living_spaces": {
+    "kitchen": ["Full Kitchen stocked with cooking pans and utensils", "Downstairs level"],
+    "living_room": ["Main level living room"],
+    "deck_patio": ["Back deck spans the width of cabin", "Downstairs deck with gas grill"],
+    "dining_area": ["Seating for 8 people", "Downstairs level"],
+    "lawn_garden": ["Backyard creek", "Local wildlife viewing"]
+  },
+  "amenities": [
+    "Internet",
+    "Wi-Fi Internet throughout property",
+    "Wireless Internet",
+    "Linens Provided",
+    "Towels Provided",
+    "Heating",
+    "Forced Air Furnace",
+    "Air Conditioning",
+    "2 portable fans and open windows",
+    "Toilet Paper",
+    "Basic Soaps",
+    "Telephone",
+    "Land Line for Local and long-distance (North America only)",
+    "Television",
+    "Internet-enabled flat-screen television with a Roku device",
+    "Games",
+    "Limited Board Games",
+    "Iron & Board",
+    "Smoke Detector",
+    "Exterior Lighting",
+    "Carbon Monoxide Detector",
+    "Deadbolt Lock",
+    "Wheelchair Inaccessible",
+    "Mountain View",
+    "Communal Pool",
+    "Green Mountain Falls has a Public Pool nearby"
+  ],
+  "kitchen_amenities": [
+    "Full Kitchen",
+    "Microwave",
+    "Built-in above stove",
+    "Refrigerator",
+    "Full Size",
+    "Dishes & Utensils",
+    "Coffee Maker",
+    "10-cup Drip style",
+    "Dishwasher",
+    "Full Size built-in",
+    "Stove",
+    "Full Size Electric Smooth-Top Stove with Oven & Broiler",
+    "Toaster",
+    "2-slice Toaster",
+    "Oven",
+    "Full Size",
+    "Grill",
+    "Gas Grill on deck",
+    "Pantry Items",
+    "Limited pantry items"
+  ],
+  "parking": {
+    "driveway_spaces": 2,
+    "garage_spaces": 0,
+    "notes": "Only 2 cars can be parked in front of the home all others must be parked at the bottom of the hill, instructions for extra parking will be given upon request."
+  },
+  "nearby_activities": [
+    "Swimming",
+    "Fishing",
+    "Golf",
+    "Cycling",
+    "Hiking",
+    "Mountain Biking",
+    "Mountain Climbing",
+    "Rafting",
+    "Rock Climbing",
+    "Green Mountain Falls - Public Pool",
+    "Tourist attractions less than 30 minutes away"
+  ],
+  "images": {
+    "hero": "/assets/images/vacation-rentals/olathe/olathe-1.jpg",
+    "gallery": [
+      "/assets/images/vacation-rentals/olathe/olathe-1.jpg",
+      "/assets/images/vacation-rentals/olathe/olathe-2.jpg",
+      "/assets/images/vacation-rentals/olathe/olathe-3.jpg",
+      "/assets/images/vacation-rentals/olathe/olathe-4.jpg",
+      "/assets/images/vacation-rentals/olathe/olathe-5.jpg",
+      "/assets/images/vacation-rentals/olathe/olathe-6.jpg",
+      "/assets/images/vacation-rentals/olathe/olathe-7.jpg",
+      "/assets/images/vacation-rentals/olathe/olathe-8.jpg",
+      "/assets/images/vacation-rentals/olathe/olathe-9.jpg",
+      "/assets/images/vacation-rentals/olathe/olathe-10.jpg",
+      "/assets/images/vacation-rentals/olathe/olathe-11.jpg",
+      "/assets/images/vacation-rentals/olathe/olathe-12.jpg",
+      "/assets/images/vacation-rentals/olathe/olathe-13.jpg",
+      "/assets/images/vacation-rentals/olathe/olathe-14.jpg",
+      "/assets/images/vacation-rentals/olathe/olathe-15.jpg",
+      "/assets/images/vacation-rentals/olathe/olathe-16.jpg",
+      "/assets/images/vacation-rentals/olathe/olathe-17.jpg",
+      "/assets/images/vacation-rentals/olathe/olathe-18.jpg",
+      "/assets/images/vacation-rentals/olathe/olathe-19.jpg"
+    ]
+  }
+}
+

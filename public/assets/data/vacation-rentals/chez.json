@@ -1,0 +1,190 @@
+{
+  "id": "chez-les-duclos",
+  "vrbo_link": "",
+  "name": "Chez Les DuClos",
+  "address": "10 Turkey Cir, Woodland Park, CO 80863",
+  "type": "House",
+  "square_feet": "2,654 sq. ft.",
+  "bedrooms": 4,
+  "beds": 5,
+  "sleeps": 8,
+  "bathrooms": 3,
+  "normal_rate": "$250/night",
+  "increased_rate": {
+    "rate": "$300/night",
+    "applies_during": [
+      "Memorial Day",
+      "July 4th",
+      "Labor Day",
+      "Thanksgiving",
+      "Christmas",
+      "New Years"
+    ]
+  },
+  "minimum_booking_nights": 2,
+  "extra_rooms": [
+    "Kitchen",
+    "Living Room",
+    "Dining Area",
+    "Deck",
+    "Porch"
+  ],
+  "short_description": "Cozy 4-bedroom cabin with scenic Pikes Peak views, nestled in Ponderosa Pines and Aspen groves.",
+  "full_description": "Upon your arrival to this cozy cabin nestled in the Ponderosa Pines and Aspen groves, you will enjoy scenic views of Pikes Peak and the Sangre de Cristos mountain range. See if you can spot the elusive Stellers Jay, the greedy white-breasted nut hatcher, curious little chipmunks, and the occasional herd of mule deer.\n\nFrom the balcony, either with your morning cup of coffee or your evening mug of hot cocoa, immerse yourself in the peaceful surroundings that Chez Les DuClos provides.\n\nThe sites of interest in the area will keep you busy when out and about. You are only 20 minutes away from the Colorado Wolf and Wildlife Center in Divide, Co. Within 45 minutes or closer you will find Garden of the Gods, Manitou Cliff Dwellings, Seven Falls, Manitou Springs and the Pikes Peak Cog Railroad, the North Pole Amusement Park, Cave of the Winds, Cripple Creek with its casinos, the Molly Kathleen Gold Mine, Cripple Creek Train, and more. It's a short 15 minutes to the Florissant Fossil Beds National Park and Trails. Colorado Springs is 35 miles away where you will find the famous Cheyenne Mountain Park Zoo and many other interesting attractions. The Air Force Academy is approximately 38 miles from the cabin. Breckenridge and Denver are approximately 1 ½ hours away.\n\nThe quaint towns of Divide and Woodland Park are home to unique dining options, charming stores, as well as grocery stores, drug stores, a Walmart Supercenter and theatre. Several churches are located in this area as well.",
+  "house_rules": {
+    "damage_responsibility": "You will be responsible for any damage to the rental property caused by you or your party during your stay.",
+    "check_in": "After 4:00 PM",
+    "check_out": "Before 10:00 AM",
+    "max_guests": 10,
+    "min_age_to_rent": 25,
+    "children_allowed": true,
+    "pets_allowed": false,
+    "events_allowed": false,
+    "smoking_allowed": false,
+    "parking": {
+      "driveway_spaces": 1,
+      "garage_spaces": 2,
+      "street_parking": "Cars can be parked in front of the home and in the Garage"
+    }
+  },
+  "bedroom_details": [
+    {
+      "name": "Bedroom 1",
+      "bed": "Sleep sofa/futon",
+      "features": ["Sleeps 2"]
+    },
+    {
+      "name": "Bedroom 2",
+      "bed": "King bed",
+      "features": []
+    },
+    {
+      "name": "Bedroom 3",
+      "bed": "Queen bed",
+      "features": []
+    },
+    {
+      "name": "Bedroom 4 - Master",
+      "bed": "King bed",
+      "features": []
+    }
+  ],
+  "bathroom_details": [
+    {
+      "name": "Bathroom 1",
+      "features": ["Toilet", "Combination tub/shower"]
+    },
+    {
+      "name": "Bathroom 2",
+      "features": ["Toilet", "Shower"]
+    },
+    {
+      "name": "Bathroom 3",
+      "features": ["Toilet", "Shower"]
+    }
+  ],
+  "living_spaces": {
+    "kitchen": ["Full kitchen", "Kitchen island", "Dining table"],
+    "deck_patio": ["Deck/Patio"],
+    "porch": ["Porch/Veranda"]
+  },
+  "amenities": [
+    "Free Wi-Fi",
+    "Wireless Internet",
+    "Linens Provided",
+    "Towels Provided",
+    "Heating",
+    "Fireplace",
+    "Toilet Paper",
+    "Paper Towels",
+    "Basic Soaps",
+    "Shampoo",
+    "Washing Machine",
+    "Clothes Dryer",
+    "Television",
+    "RoKu Available",
+    "Satellite/Cable",
+    "DVD Player",
+    "Smart TV",
+    "Games for Kids",
+    "Smoke Detector",
+    "Fire Extinguisher",
+    "Carbon Monoxide Detector",
+    "Wheelchair Inaccessible",
+    "Rural Mountain Location"
+  ],
+  "kitchen_amenities": [
+    "Kitchen",
+    "Microwave",
+    "Refrigerator",
+    "Dishes & Utensils",
+    "Coffee Maker",
+    "Drip and Keurig",
+    "Crock Pot",
+    "Dishwasher",
+    "Stove",
+    "Toaster",
+    "Oven",
+    "Grill",
+    "Blender",
+    "Dining Table",
+    "Kitchen Island"
+  ],
+  "parking": {
+    "driveway_spaces": 1,
+    "garage_spaces": 2,
+    "notes": "Detached 2 car Garage is available for guest use. Cars can be parked in front of the home and in the Garage."
+  },
+  "nearby_activities": [
+    "Fishing",
+    "Golf",
+    "Hiking",
+    "Wildlife Viewing",
+    "Mountain Biking",
+    "Mountain Climbing",
+    "Rock Climbing",
+    "Cross Country Skiing",
+    "Garden of the Gods (45 min)",
+    "Pikes Peak Cog Railroad (45 min)",
+    "Manitou Cliff Dwellings (45 min)",
+    "Manitou Springs (45 min)",
+    "Seven Falls (45 min)",
+    "North Pole Amusement Park (45 min)",
+    "Cave of the Winds (45 min)",
+    "Cripple Creek Casinos (45 min)",
+    "Molly Kathleen Gold Mine (45 min)",
+    "Colorado Wolf and Wildlife Center (20 min)",
+    "Florissant Fossil Beds National Park (15 min)",
+    "Cheyenne Mountain Park Zoo (35 miles)",
+    "Air Force Academy (38 miles)",
+    "Breckenridge (1.5 hours)",
+    "Denver (1.5 hours)"
+  ],
+  "images": {
+    "hero": "/assets/images/vacation-rentals/chez/chez-1.jpg",
+    "gallery": [
+      "/assets/images/vacation-rentals/chez/chez-1.jpg",
+      "/assets/images/vacation-rentals/chez/chez-2.jpg",
+      "/assets/images/vacation-rentals/chez/chez-3.jpg",
+      "/assets/images/vacation-rentals/chez/chez-4.jpg",
+      "/assets/images/vacation-rentals/chez/chez-5.jpg",
+      "/assets/images/vacation-rentals/chez/chez-6.jpg",
+      "/assets/images/vacation-rentals/chez/chez-7.jpg",
+      "/assets/images/vacation-rentals/chez/chez-8.jpg",
+      "/assets/images/vacation-rentals/chez/chez-9.jpg",
+      "/assets/images/vacation-rentals/chez/chez-10.jpg",
+      "/assets/images/vacation-rentals/chez/chez-11.jpg",
+      "/assets/images/vacation-rentals/chez/chez-12.jpg",
+      "/assets/images/vacation-rentals/chez/chez-13.jpg",
+      "/assets/images/vacation-rentals/chez/chez-14.jpg",
+      "/assets/images/vacation-rentals/chez/chez-15.jpg",
+      "/assets/images/vacation-rentals/chez/chez-16.jpg",
+      "/assets/images/vacation-rentals/chez/chez-17.jpg",
+      "/assets/images/vacation-rentals/chez/chez-18.jpg",
+      "/assets/images/vacation-rentals/chez/chez-19.jpg",
+      "/assets/images/vacation-rentals/chez/chez-20.jpg",
+      "/assets/images/vacation-rentals/chez/chez-21.jpg"
+    ]
+  }
+}
+
